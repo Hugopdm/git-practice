@@ -2,3 +2,4 @@ Name: Hugo Paniagua
 Age: 40
 City: Plasencia
 Favorite Color: Red
+Favorite Food: Pizza
